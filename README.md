@@ -2,6 +2,8 @@
 
 ## 1. Introduction
 
+This assignment is to create walk cycles for a skeleton charactor using `forward kinematics` and `inverse kinematics`.
+
 **Topics:** 
 
 **Skills:** _Maya_
